@@ -5,6 +5,7 @@ Web application for managing tasks, made with HTML, CSS, and JavaScript. This pr
 ## Student Information
 * **Student ID:** 72924
 * **Repository URL:** [https://github.com/vistula-team-project-72924-new/vistula-task-manager](https://github.com/vistula-team-project-72924-new/vistula-task-manager)
+* **GitHub pages URL:** [https://vistula-team-project-72924-new.github.io/vistula-task-manager/](https://vistula-team-project-72924-new.github.io/vistula-task-manager/)
 
 ---
 
