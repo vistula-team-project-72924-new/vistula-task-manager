@@ -4,11 +4,11 @@ Web application for managing tasks, made with HTML, CSS, and JavaScript. This pr
 
 ## Student Information and links
 * **Student ID:** 72924
-* **Repository:** [https://github.com/vistula-team-project-72924-new/vistula-task-manager](https://github.com/vistula-team-project-72924-new/vistula-task-manager)
-* **GitHub pages:** [https://vistula-team-project-72924-new.github.io/vistula-task-manager/](https://vistula-team-project-72924-new.github.io/vistula-task-manager/)
-* **Contributor page:** [https://vistula-team-project-72924-new.github.io/vistula-task-manager/contribution.html](https://vistula-team-project-72924-new.github.io/vistula-task-manager/contribution.html)
-* **Incoming contribution (73597):** [https://github.com/vistula-team-project-72924-new/vistula-task-manager/pull/1](https://github.com/vistula-team-project-72924-new/vistula-task-manager/pull/1)
-* **Outgoing contribution (72924):** [https://github.com/vistula-team-project-73597/vistula-task-manager/pull/1](https://github.com/vistula-team-project-73597/vistula-task-manager/pull/1)
+* [Repository](https://github.com/vistula-team-project-72924-new/vistula-task-manager)
+* [GitHub pages](https://vistula-team-project-72924-new.github.io/vistula-task-manager/)
+* [Contributor page](https://vistula-team-project-72924-new.github.io/vistula-task-manager/contribution.html)
+* [Incoming contribution (73597)](https://github.com/vistula-team-project-72924-new/vistula-task-manager/pull/1)
+* [Outgoing contribution (72924)](https://github.com/vistula-team-project-73597/vistula-task-manager/pull/1)
 
 ---
 
