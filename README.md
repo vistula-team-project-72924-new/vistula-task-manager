@@ -2,10 +2,13 @@
 
 Web application for managing tasks, made with HTML, CSS, and JavaScript. This project uses PostgreSQL database and REST API hosted on Supabase, and is deployed on GitHub Pages.
 
-## Student Information
+## Student Information and links
 * **Student ID:** 72924
-* **Repository URL:** [https://github.com/vistula-team-project-72924-new/vistula-task-manager](https://github.com/vistula-team-project-72924-new/vistula-task-manager)
-* **GitHub pages URL:** [https://vistula-team-project-72924-new.github.io/vistula-task-manager/](https://vistula-team-project-72924-new.github.io/vistula-task-manager/)
+* **Repository:** [https://github.com/vistula-team-project-72924-new/vistula-task-manager](https://github.com/vistula-team-project-72924-new/vistula-task-manager)
+* **GitHub pages:** [https://vistula-team-project-72924-new.github.io/vistula-task-manager/](https://vistula-team-project-72924-new.github.io/vistula-task-manager/)
+* **Contributor page:** [https://vistula-team-project-72924-new.github.io/vistula-task-manager/contribution.html](https://vistula-team-project-72924-new.github.io/vistula-task-manager/contribution.html)
+* **Incoming contribution (73597):** [https://github.com/vistula-team-project-72924-new/vistula-task-manager/pull/1](https://github.com/vistula-team-project-72924-new/vistula-task-manager/pull/1)
+* **Outgoing contribution (72924):** [https://github.com/vistula-team-project-73597/vistula-task-manager/pull/1](https://github.com/vistula-team-project-73597/vistula-task-manager/pull/1)
 
 ---
 
